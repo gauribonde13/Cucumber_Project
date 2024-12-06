@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="4.75" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Title of your Amazon" name="Login Amazon page" time="4.524">
+<failure/>
+<system-out><![CDATA[
+Given Enter Amazon url......................................................passed
+And click on search  buton..................................................undefined
+When I enter username and password..........................................skipped
+And click on login button...................................................skipped
+Then User able to login amazon homepage.....................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
